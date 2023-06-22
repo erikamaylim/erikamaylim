@@ -2,10 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/erikamaylim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikamaylim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikamaylim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  -->
   <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikamaylim&layout=compact&langs_count=7&theme=radical" width="700"/> -->
-  <!-- <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=erikamaylim&theme=radical" width="700">
-</div> -->
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=erikamaylim&theme=radical" width="700">
+</div> 
 
 
   <div style="display: inline_block"><br>

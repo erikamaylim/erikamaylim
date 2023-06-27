@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently learning Java
 - 🔭 I'm looking for job opportunities as a Java Developer
-- 💬 I'm a native Brazilian Portuguese speaker, proficient in English and also have beginner skills in Spanish and Italian
+<!-- - 💬 I'm a native Brazilian Portuguese speaker, proficient in English and also have beginner skills in Spanish and Italian -->
 
 
 <div align="center">

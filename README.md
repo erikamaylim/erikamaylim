@@ -1,7 +1,7 @@
 ### Welcome! 👋
 
-- 🌱 I'm currently learning Java
-- 🔭 I'm looking for job opportunities as a Java Developer
+- 🌱 I'm currently learning Java and Data Analytics
+- 🔭 I'm looking for an internship
 <!-- - 💬 I'm a native Brazilian Portuguese speaker, proficient in English and also have beginner skills in Spanish and Italian -->
 
 

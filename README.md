@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-- 🌱 I'm currently learning Java and Data Analytics
+- 🌱 I'm currently learning Data Analytics
 
 <!-- - 💬 I'm a native Brazilian Portuguese speaker, proficient in English and also have beginner skills in Spanish and Italian -->
 

@@ -8,18 +8,20 @@
 <div align="center">
   <a href="https://github.com/erikamaylim">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikamaylim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  -->
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikamaylim&layout=compact&langs_count=7&theme=radical" width="700"/>
+ <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikamaylim&layout=compact&langs_count=7&theme=radical" width="700"/> -->
   <!-- <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=erikamaylim&theme=radical" width="700"> -->
 </div> 
 
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Erika-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Erika-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Erika-CS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Erika-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="Erika-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" alt="Erika-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
+  <img align="center" alt="Erika-CS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="Erika-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
   <img align="center" alt="Erika-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Erika-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  
             
   
 

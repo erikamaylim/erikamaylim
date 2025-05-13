@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-- 🌱 I currently work in information security.
+- 🌱 Analytics e Business Intelligence.
 
 <!-- - 💬 I'm a native Brazilian Portuguese speaker, proficient in English and also have beginner skills in Spanish and Italian -->
 
